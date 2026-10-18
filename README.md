@@ -1,4 +1,6 @@
 # Tutorial-Git
-Aprendiendo git con Alber
+Enseñando a Leo git
+
+Author: Alber
 
 1er cambio
