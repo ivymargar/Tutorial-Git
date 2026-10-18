@@ -1,2 +1,4 @@
 # Tutorial-Git
-Aprendiendo git con Alberto
+Enseñando a Leo git
+
+Author: Alberto
